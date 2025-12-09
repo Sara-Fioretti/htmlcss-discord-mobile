@@ -1,0 +1,29 @@
+body{
+    width: 512px;
+    background-color: #2e07bade;
+    font-family: "DM Sans", sans-serif;
+}
+#titoli{
+  font-family: "Sigmar", sans-serif;
+  font-size: 12px;
+  font font-weight: 900;
+  font-style: strong;
+}
+#section1{
+    color: white;
+    text-align: center;
+    position: relative;
+    left: 250px;
+}
+#download{
+  border: 2px;
+  background-color: white;
+  border-radius: 5px;
+  color: black ;
+}
+#open{
+  border: 2px;
+  background-color:white ;
+  border-radius: 5px;
+  color: black;
+}
