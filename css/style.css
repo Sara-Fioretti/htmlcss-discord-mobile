@@ -1,16 +1,17 @@
 body{
     width: 512px;
-    background-color: #2e07bade;
+    background-color: #200488de;
     font-family: "DM Sans", sans-serif;
 }
-#titoli{
+.titoli{
   font-family: "Sigmar", sans-serif;
-  font-size: 12px;
-  font font-weight: 900;
+  font-size: 50px;
+  font-weight: 1000;
   font-style: strong;
 }
 #section1{
     color: white;
+    font-size: 25px;
     text-align: center;
     position: relative;
     left: 250px;
@@ -26,4 +27,23 @@ body{
   background-color:white ;
   border-radius: 5px;
   color: black;
+}
+#section2{
+  background-color: rgb(99, 87, 234);
+  color: white;
+  font-size: 25px;
+  text-align: left;
+  position: relative;
+  left: 250px;
+  border: 2px;
+  border-radius: 10px;
+  padding: 25px;
+  padding-bottom: 10px; ;
+}
+#discord_cube{
+  width: 90px;
+  height: 90px;
+  position: relative;
+  left: 70px;
+  bottom: 970px;
 }
